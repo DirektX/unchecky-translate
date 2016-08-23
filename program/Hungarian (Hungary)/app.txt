@@ -9,9 +9,9 @@ IDS_HEADER_CONFIG       "Be&állítások"
 IDS_HEADER_ABOUT        "&Névjegy"
 IDS_MAINCTRL_TEXT       "Üdvözöljük - Az Unchecky alkalmazás célja, hogy folyamatosan blokkolja a nemkívánatos programok települését számítógépére."
 IDS_MAINCTRL_TEXT_SVC_RUNNING 
-                        "Az Unchecky szolgáltatás AKTÍVÁLVA."
+                        "Az Unchecky szolgáltatás AKTIVÁLVA."
 IDS_MAINCTRL_TEXT_SVC_STOPPED 
-                        "Az Unchecky jelenleg INAKTÍV. A szolgáltatás aktíválható manuálisan, vagy a számítógép újraindításával."
+                        "Az Unchecky jelenleg INAKTÍV. A szolgáltatás aktiválható manuálisan, vagy a számítógép újraindításával."
 IDS_MAINCTRL_TEXT_QUERYERROR 
                         "Hiba történt a Unchecky szolgáltatás állapotának lekérdezésekor."
 IDS_MAINCTRL_STATS_NONE_NEWGUY 
@@ -21,7 +21,7 @@ IDS_MAINCTRL_STATS      "%s időpont óta : %u jelölőnégyzetből lett eltávo
 IDS_MAINCTRL_STATS_WARNING " - Az észlelt figyelmeztetések száma : %u"
 IDS_MAINCTRL_LOG        "Észlelési &napló"
 IDS_MAINCTRL_STOP       "&Felfüggesztés"
-IDS_MAINCTRL_START      "&Aktíválás"
+IDS_MAINCTRL_START      "&Aktiválás"
 IDS_CONFIG_LANG         "&Nyelv :"
 IDS_CONFIG_NO_TRAY_ICON "Ne legyen &ikonja a Tálcán"
 IDS_CONFIG_EMPTY_MESSAGE 
@@ -35,8 +35,8 @@ IDS_ERROR_LINK          "A Link nem nyitható meg.\n\nWebböngészőre van szük
 IDS_ADVOPT_TITLE        "Speciális beállítások"
 IDS_ADVOPT_NO_UPDATES   "Automatikus frissítések &tiltása"
 IDS_ADVOPT_NO_HOSTS     "Ne használja a &kiszolgáló fájl-szabályokat"
-IDS_ADVOPT_WARNING_TEXT "Ne változtasson a beállításokon, ha nem tudja, hogy mit-miért tesz! A hibás módosítás gátolja a program működését."
-IDS_ADVOPT_RESTART_TEXT "Az Unchecky szolgáltatást újra kell indítani a beállítások aktíválásához."
+IDS_ADVOPT_WARNING_TEXT "Ne változtasson a beállításokon, ha nem tudja, hogy mit miért tesz! A hibás módosítás gátolja a program működését."
+IDS_ADVOPT_RESTART_TEXT "Az Unchecky szolgáltatást újra kell indítani a beállítások aktiválásához."
 IDS_LOG_TITLE           "Észlelési napló"
 IDS_LOG_HANDLED_TEXT    "Gratulálunk! Az Unchecky megakadályozta egy potenciálisan nemkívánatos program feltelepülését a számítógépére!"
 IDS_LOG_MAINTEXT        "Itt látható az Unchecky műveleti naplója. Láthatja, hogy mely telepítők kéretlen ajánlatai lettek észlelve és visszautasítva, figyelmeztetések kiséretében."
@@ -63,3 +63,4 @@ IDS_SHARE_EMAIL_EXAMPLE "Például, a %1 miközben a következő programot telep
 IDS_SHARE_EMAIL_PREVENTED "% u potenciálisan nemkívánatos programot blokkolt"
 IDS_SHARE_EMAIL_AND     " és "
 IDS_SHARE_EMAIL_WARNED  "%u kéretlen kínálkozásról figyelmeztetett"
+a
